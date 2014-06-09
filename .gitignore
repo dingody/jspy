@@ -1,0 +1,13 @@
+*.properties
+*.jar
+*.class
+*.war
+*.zip
+*.log
+.classpath
+.project
+.settings
+*.pch
+target
+depoly
+bin
